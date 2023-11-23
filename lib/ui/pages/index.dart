@@ -1,0 +1,10 @@
+export 'splash/index.dart';
+export 'login/index.dart';
+export 'dashboards/index.dart';
+export 'team_attendance/index.dart';
+export 'filter/index.dart';
+export 'check_in/index.dart';
+export 'setting_page/setting_page.dart';
+export 'forget_password/index.dart';
+export 'my_coverage/index.dart';
+export 'knowledge_share/index.dart';
